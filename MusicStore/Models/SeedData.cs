@@ -93,7 +93,7 @@ namespace MusicStore.Models
                     Description = "Beloved by touring musicians all over the world.",
                     Category = "Piano",
                     Price = 75
-                },
+                }
                 );
                 context.SaveChanges();
             }
